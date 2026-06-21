@@ -1,7 +1,7 @@
 Creating the greatest Michaelsoft Binbows the world has ever seen.
 A functional, admittedly Arch-based operating system complete with everything a family PC might need in this great year of 1998:
 - Internet Exploder 5
-- PeeLC Media Player
+- Loseamp
 - Netstay
 - Birus
 
